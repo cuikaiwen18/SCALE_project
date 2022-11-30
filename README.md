@@ -1,4 +1,4 @@
-# generation
+# Generation
 cd image_generation
 ## Step 1: Train image generation model 
 sh train.sh 
