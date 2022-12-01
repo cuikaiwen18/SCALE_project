@@ -9,5 +9,5 @@ sh generate.sh
 cd face_recognition
 # Step 1: Train face recognition model
 sh train_face.sh
-# Step 2: test face recognition model
+# Step 2: Test face recognition model
 sh test_face.sh
