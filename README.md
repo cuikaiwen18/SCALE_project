@@ -7,5 +7,7 @@ sh generate.sh
 ## Step 3: Add generated images to training set
 # Face Expression Recognition
 cd face_recognition
-# Step 3: Train face recognition model
-# Step 4: test face recognition model
+# Step 1: Train face recognition model
+sh train_face.sh
+# Step 2: test face recognition model
+sh test_face.sh
