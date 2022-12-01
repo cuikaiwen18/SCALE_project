@@ -1,8 +1,9 @@
-# Generation
+# Image Generation
 cd image_generation
 ## Step 1: Train image generation model 
 sh train.sh 
 ## Step 2: Generate additional images
+# Face Expression Recognition
 sh generate.sh \
 cd face_recognition
 # Step 3: Train face recognition model
